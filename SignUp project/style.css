@@ -1,0 +1,16 @@
+.s1{
+    background: url(img.jpg);
+     /* background-attachment: fixed;  */
+    background-repeat: no-repeat; 
+    background-size: cover;
+}
+.s2{
+    margin-top: 150px;
+}
+.s3{
+    background-image: linear-gradient(blue,red,yellow,green,aqua);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+
+}

@@ -1,0 +1,50 @@
+#back{
+    background-image: url(image/buil.jpg);
+    background-repeat: no-repeat;
+     background-size: cover; 
+      /* background-attachment: fixed;   */
+      width:auto; 
+     height: 450px; 
+
+}
+#road{
+    background: url(image/road.jpg);
+         height: 365px ;   
+        /* width: 100%; */
+        /* height: 100%; */
+       /* background-attachment: fixed;  */
+       /* background-size: cover;  */
+       /* background-repeat: no-repeat;  */
+ /* width: 100%; */
+    
+    
+}
+#im{
+      width: 250px;      
+}
+#btn1{
+    background-color:yellow;
+    width: 100px;
+    margin-top: 405px; 
+    border-radius: 12px;
+}
+#btn1:hover{
+    background-color: green;
+
+}
+#btn2
+{
+    background-color:green;
+    width: 100px;
+    border-radius: 12px;
+    /* margin-top: 25px; */
+}
+#btn2:hover{
+    background-color: red;
+}
+#dbtn{
+    text-align: center;
+    /* display: flex; */
+    /* margin-top: 23px; */
+
+}
